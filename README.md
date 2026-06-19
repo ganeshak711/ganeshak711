@@ -1,38 +1,51 @@
-# Hey, I'm Ganesha K 👋
+<div align="center">
 
-### Full Stack Developer | Computer Science Engineering Student
+# Ganesha K
 
-Building modern web applications with JavaScript technologies and continuously learning software engineering principles.
+### Full Stack Developer • Computer Science Engineering Student
+
+Building scalable web applications and continuously learning modern technologies.
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Engineering Student at PES University
-
-💡 Passionate about creating scalable web applications
-
-🌱 Currently exploring Backend Development and System Design
-
-🚀 Focused on writing clean, maintainable, and efficient code
-
-📚 Always learning new technologies and development practices
+- 🎓 Computer Science Engineering Student at PES University
+- 💻 Passionate about Full Stack Development
+- 🚀 Building modern web applications with JavaScript technologies
+- 🌱 Currently learning Backend Development & System Design
+- 🔍 Interested in Software Engineering, Databases, and Web Technologies
+- ⚡ Focused on writing clean, maintainable, and efficient code
 
 ---
 
-## ⚒️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-HTML5 • CSS3 • JavaScript
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### Backend
-Node.js • Express.js
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
-MongoDB • SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools
-Git • GitHub • VS Code
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
@@ -40,26 +53,26 @@ Git • GitHub • VS Code
 
 - REST API Development
 - Authentication & Authorization
-- Database Design
 - Backend Architecture
-- Full Stack Application Development
+- Database Design
+- Full Stack Applications
 
 ---
 
 ## 🌐 Connect
 
-📧 Email: your-email@example.com
-
-💼 LinkedIn: your-linkedin-url
-
-🐙 GitHub: https://github.com/404gk
-
----
-
-## 📌 Philosophy
-
-> Great software is built through consistency, curiosity, and continuous improvement.
+<p>
+  <a href="https://github.com/ganeshak711">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-### Thanks for visiting my profile 🚀
+<div align="center">
+
+### 💡 Philosophy
+
+*"Build. Learn. Improve. Repeat."*
+
+</div>
