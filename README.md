@@ -1,68 +1,65 @@
-# Hi, I'm Ganesha K 👋
+# Hey, I'm Ganesha K 👋
 
 ### Full Stack Developer | Computer Science Engineering Student
 
-Building modern web applications with a focus on clean code, scalability, and user experience.
+Building modern web applications with JavaScript technologies and continuously learning software engineering principles.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student at PES University
-- 💻 Full Stack Web Developer
-- 🌱 Currently learning Backend Development & System Design
-- 🔍 Interested in Software Engineering, Databases, and Web Technologies
-- ⚡ Passionate about building real-world projects and solving problems
+🎓 Computer Science Engineering Student at PES University
+
+💡 Passionate about creating scalable web applications
+
+🌱 Currently exploring Backend Development and System Design
+
+🚀 Focused on writing clean, maintainable, and efficient code
+
+📚 Always learning new technologies and development practices
 
 ---
 
-## 🛠️ Tech Stack
+## ⚒️ Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
+HTML5 • CSS3 • JavaScript
 
 ### Backend
-- Node.js
-- Express.js
+Node.js • Express.js
 
 ### Database
-- MongoDB
-- SQL
+MongoDB • SQL
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+Git • GitHub • VS Code
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
-- Advanced Node.js
-- REST APIs
+- REST API Development
 - Authentication & Authorization
-- System Design
-- Database Optimization
+- Database Design
+- Backend Architecture
+- Full Stack Application Development
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshak711&show_icons=true)
+📧 Email: your-email@example.com
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshak711&layout=compact)
+💼 LinkedIn: your-linkedin-url
 
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/ganeshak711
-- LinkedIn: Add Your LinkedIn Profile
+🐙 GitHub: https://github.com/404gk
 
 ---
 
-### 💡 Motto
+## 📌 Philosophy
 
-> Build. Learn. Improve. Repeat.
+> Great software is built through consistency, curiosity, and continuous improvement.
+
+---
+
+### Thanks for visiting my profile 🚀
