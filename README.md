@@ -79,7 +79,7 @@ Building scalable web applications, learning modern technologies, and creating p
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 
 
 <p align="left">
 <a href="https://github.com/ganeshak711">
