@@ -1,40 +1,42 @@
-<table>
-<tr>
-<td valign="top" width="240">
-<img src="photo.jpg" alt="Ganesha K" width="220">
-<br><br>
-<b>Ganesha K</b><br>
-ganeshak711
-</td>
-<td valign="top">
-<pre>
-ganesha@github
---------------------------------------------
-Role ........ Software Engineer
-Focus ....... Backend, Full Stack, AI Apps
-Location .... Bengaluru, India
-Status ...... Open to software engineering roles
+<h1 align="center">Hello! I'm Ganesha K</h1>
 
-Education ... B.Tech CSE, PES University
-Batch ....... 2022 - 2026 (CGPA 8.02)
-Research .... MV-Refine3D, under review (Springer)
-Paper ....... AIET 2026 (accepted, co-author)
+<p align="center">
+I'm a software engineer focused on backend development, full-stack applications, and AI-powered systems. I recently graduated from PES University, where I built RAG-based products, published research on 3D garment reconstruction, and worked as a Teaching Assistant for Object-Oriented Analysis and Design.
+</p>
 
-Languages ... Java, Python, JavaScript, SQL
-Web ......... React, Node.js, Express, HTML, CSS
-Databases ... MongoDB, MySQL
-Tools ....... Git, Docker, Linux, Postman
-AI/ML ....... RAG, Vector Search, NLP, CV
-Exploring ... Spring Boot, PostgreSQL, System Design
+<p align="center">
+When I'm not coding, I'm reading research papers or learning how to build systems that scale.
+</p>
 
-Email ....... ganeshak2902@gmail.com
-GitHub ...... github.com/ganeshak711
-</pre>
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="mailto:ganeshak2902@gmail.com"><img src="https://img.shields.io/badge/ganeshak2902@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ganeshak711"><img src="https://img.shields.io/badge/ganeshak711-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
-## Projects
+### How I'd define myself... literally
+
+```java
+public class Ganesha extends Person implements SoftwareEngineer {
+
+    private final String name      = "Ganesha K";
+    private final String location  = "Bengaluru, India";
+    private final String education = "B.Tech CSE, PES University (2022-2026)";
+
+    private final List<String> languages = List.of("Java", "Python", "JavaScript", "SQL");
+    private final List<String> stack     = List.of("React", "Node.js", "Express", "MongoDB", "MySQL", "Docker");
+    private final List<String> interests = List.of("Backend", "RAG systems", "Computer Vision", "System Design");
+
+    public String currentlyExploring() {
+        return "Spring Boot, PostgreSQL";
+    }
+
+    public boolean openToWork() {
+        return true;
+    }
+}
+```
+
+### Projects
 
 **NeuroDesk: AI-Augmented Collaborative Workspace**
 `Node.js` `Express` `MongoDB Atlas` `RAG` `Docker`
@@ -52,12 +54,12 @@ GitHub ...... github.com/ganeshak711
 - Eight-stage preprocessing pipeline evaluated on 500 images
 - Uncertainty-aware multi-view fusion that reduced Chamfer Distance by 49.5% in the reported evaluation
 
-## Publications
+### Publications
 
 - MV-Refine3D: Multi-Stage Preprocessing for Enhanced 3D Garment Reconstruction. First author, under review at *Multimedia Tools and Applications* (Springer)
 - RL-Driven Adaptive Mock Interviewing with Multimodal Evaluation. Co-author, accepted at *AI in Education and Training (AIET 2026)*
 
-## Experience
+### Experience
 
 - **Research Intern**, CDSAML & CCBD Centre, PES University (Jan 2026 - May 2026)
 - **Teaching Assistant**, Object-Oriented Analysis and Design, PES University (Jan 2026 - May 2026), supported 100+ students
