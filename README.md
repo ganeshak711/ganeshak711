@@ -58,23 +58,16 @@ CS graduate from PES University building REST APIs, full-stack apps, RAG systems
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages:** Java · Python · JavaScript · SQL · HTML · CSS
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+**Frameworks:** React · Node.js · Express
 
-**Frameworks & Libraries**
+**Databases:** MongoDB · MySQL
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma" />
+**Tools:** Git · GitHub · Docker · Linux · Postman · VS Code · Figma
 
 **Core CS:** DSA · OOP · SOLID · REST APIs · UML · Multithreading · Concurrency · System Design basics
+
 **AI/ML:** RAG · Vector Search · NLP · Computer Vision · FLAN-T5 · DistilBERT
 
 ---
@@ -85,15 +78,6 @@ CS graduate from PES University building REST APIs, full-stack apps, RAG systems
 - System design and scalable API architecture
 - Secure API development and database optimization
 - Building more AI/RAG features into full-stack products
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ganeshak711&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshak711&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
