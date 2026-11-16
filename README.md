@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Ganesha K</h1>
 
 <p align="center">
-I'm a software engineer focused on backend development, full-stack applications, and AI-powered systems. I recently graduated from PES University, where I built RAG-based products, published research on 3D garment reconstruction, and worked as a Teaching Assistant for Object-Oriented Analysis and Design.
+I'm a software engineer focused on backend development, full-stack applications, and AI-powered systems. I recently graduated from PES University, where I built RAG-based products, led research on 3D garment reconstruction (submitted to Springer), and worked as a Teaching Assistant for Object-Oriented Analysis and Design.
 </p>
 
 <p align="center">
@@ -54,9 +54,9 @@ public class Ganesha extends Person implements SoftwareEngineer {
 - Eight-stage preprocessing pipeline evaluated on 500 images
 - Uncertainty-aware multi-view fusion that reduced Chamfer Distance by 49.5% in the reported evaluation
 
-### Publications
+### Research
 
-- MV-Refine3D: Multi-Stage Preprocessing for Enhanced 3D Garment Reconstruction. First author, under review at *Multimedia Tools and Applications* (Springer)
+- MV-Refine3D: Multi-Stage Preprocessing for Enhanced 3D Garment Reconstruction. First author, submitted to *Multimedia Tools and Applications* (Springer), under review
 - RL-Driven Adaptive Mock Interviewing with Multimodal Evaluation. Co-author, accepted at *AI in Education and Training (AIET 2026)*
 
 ### Experience
