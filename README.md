@@ -1,26 +1,38 @@
-```text
-                       ganesha@github
-                       --------------------------------------------
-                       Role ........ Software Engineer
-                       Focus ....... Backend, Full Stack, AI Apps
-                       Location .... Bengaluru, India
-                       Status ...... Open to software engineering roles
-  ██████╗ ██╗  ██╗
- ██╔════╝ ██║ ██╔╝     Education ... B.Tech CSE, PES University
- ██║  ███╗█████╔╝      Batch ....... 2022 - 2026 (CGPA 8.02)
- ██║   ██║██╔═██╗      Research .... MV-Refine3D, under review (Springer)
- ╚██████╔╝██║  ██╗     Paper ....... AIET 2026 (accepted, co-author)
-  ╚═════╝ ╚═╝  ╚═╝
-                       Languages ... Java, Python, JavaScript, SQL
-   Build. Learn.       Web ......... React, Node.js, Express, HTML, CSS
-  Improve. Repeat.     Databases ... MongoDB, MySQL
-                       Tools ....... Git, Docker, Linux, Postman
-                       AI/ML ....... RAG, Vector Search, NLP, CV
-                       Exploring ... Spring Boot, PostgreSQL, System Design
+<table>
+<tr>
+<td valign="top" width="240">
+<img src="photo.jpg" alt="Ganesha K" width="220">
+<br><br>
+<b>Ganesha K</b><br>
+ganeshak711
+</td>
+<td valign="top">
+<pre>
+ganesha@github
+--------------------------------------------
+Role ........ Software Engineer
+Focus ....... Backend, Full Stack, AI Apps
+Location .... Bengaluru, India
+Status ...... Open to software engineering roles
 
-                       Email ....... ganeshak2902@gmail.com
-                       GitHub ...... github.com/ganeshak711
-```
+Education ... B.Tech CSE, PES University
+Batch ....... 2022 - 2026 (CGPA 8.02)
+Research .... MV-Refine3D, under review (Springer)
+Paper ....... AIET 2026 (accepted, co-author)
+
+Languages ... Java, Python, JavaScript, SQL
+Web ......... React, Node.js, Express, HTML, CSS
+Databases ... MongoDB, MySQL
+Tools ....... Git, Docker, Linux, Postman
+AI/ML ....... RAG, Vector Search, NLP, CV
+Exploring ... Spring Boot, PostgreSQL, System Design
+
+Email ....... ganeshak2902@gmail.com
+GitHub ...... github.com/ganeshak711
+</pre>
+</td>
+</tr>
+</table>
 
 ## Projects
 
