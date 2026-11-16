@@ -1,16 +1,15 @@
 <div align="center">
 
-# Ganesha K 👋
+# Hi, I'm Ganesha K 👋
 
-### Full Stack Developer • Computer Science Engineering Student
+### Software Engineer · Backend & Full Stack · AI-Powered Applications
 
-Building scalable web applications, learning modern technologies, and creating practical software solutions.
+CS graduate from PES University building REST APIs, full-stack apps, RAG systems, and computer vision pipelines.
 
-<br>
+<a href="mailto:ganeshak2902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ganeshak711"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux" />
-</p>
+📍 Bengaluru, India &nbsp;•&nbsp; 🟢 Open to software engineering roles
 
 </div>
 
@@ -18,85 +17,88 @@ Building scalable web applications, learning modern technologies, and creating p
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student at PES University
-- 💻 Passionate about Full Stack Web Development
-- 🚀 Building responsive and scalable web applications
-- 🌱 Currently learning Backend Development & System Design
-- 🎨 Familiar with UI/UX Design using Figma
-- 🐧 Comfortable working with Linux environments, especially Kali Linux
-- 🔍 Interested in Software Engineering, Databases, and Web Technologies
-- ⚡ Love learning new technologies and building real-world projects
+- 🎓 B.Tech in Computer Science & Engineering, PES University (2022–2026), CGPA 8.02
+- 🔬 Research Intern at CDSAML & CCBD Centre: 3D garment reconstruction, first-author paper under review at *Multimedia Tools and Applications* (Springer)
+- 🧑‍🏫 Teaching Assistant for Object-Oriented Analysis & Design, supporting 100+ students
+- 🤖 Building AI-powered software with RAG, vector search, and LLM APIs
+- 🐧 Comfortable in Linux, Docker, and Git-based workflows
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 NeuroDesk: AI-Augmented Collaborative Workspace
+`Node.js` `Express` `MongoDB Atlas` `RAG` `Docker` `SSE`
+
+- Workspace for document management, task tracking, and AI question answering
+- JWT authentication with role-based access control
+- RAG pipeline using MongoDB Atlas Vector Search, local embedding models, and an LLM API
+- REST APIs plus Server-Sent Events for streaming AI responses; containerized with Docker Compose
+
+### 🏦 SmartVault: Secure Banking System
+`Java` `OOP` `Swing` `Design Patterns`
+
+- Account management, fund transfers, transaction history, and balance tracking
+- Singleton and Factory patterns, role-based auth, exception handling, file-based persistence, Swing GUI
+
+### 👕 MV-Refine3D: 3D Garment Reconstruction
+`Python` `Computer Vision`
+
+- Eight-stage preprocessing pipeline evaluated on 500 images
+- Uncertainty-aware multi-view fusion with entropy-guided refinement, cutting Chamfer Distance by **49.5%** in the reported evaluation
+
+---
+
+## 📄 Publications
+
+- **MV-Refine3D: Multi-Stage Preprocessing for Enhanced 3D Garment Reconstruction**: first author, under review at *Multimedia Tools and Applications* (Springer)
+- **RL-Driven Adaptive Mock Interviewing with Multimodal Evaluation**: co-author, accepted at *AI in Education and Training (AIET 2026)*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 
-### Backend
+**Frameworks & Libraries**
 
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+**Databases**
 
-### Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+**Tools & Platforms**
 
-### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
-</p>
+**Core CS:** DSA · OOP · SOLID · REST APIs · UML · Multithreading · Concurrency · System Design basics
+**AI/ML:** RAG · Vector Search · NLP · Computer Vision · FLAN-T5 · DistilBERT
 
 ---
 
-## 🎯 Current Focus
+## 🌱 Currently Exploring
 
-- REST API Development
-- Authentication & Authorization
-- Backend Architecture
-- Database Design
-- Full Stack Application Development
-- Software Engineering Best Practices
+- Spring Boot and PostgreSQL for production-grade backends
+- System design and scalable API architecture
+- Secure API development and database optimization
+- Building more AI/RAG features into full-stack products
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats
 
-- Advanced Node.js
-- Express.js Best Practices
-- System Design Fundamentals
-- Secure API Development
-- Database Optimization
-
----
-
-## 🌐 Connect With Me 
-
-<p align="left">
-<a href="https://github.com/ganeshak711">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ganeshak711&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshak711&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 💭 Philosophy
-
-> Build. Learn. Improve. Repeat.
 
 ---
 
 <div align="center">
 
-### 🚀 Turning Ideas Into Real Applications
+> Build. Learn. Improve. Repeat.
 
 </div>
